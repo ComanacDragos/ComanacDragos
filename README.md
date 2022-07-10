@@ -15,7 +15,7 @@ Here is a summary of my projects
   
   <li>Java
     <ul>
-      <li><a href="https://github.com/ComanacDragos/HoughTransform">Hough transform</a></li>
+      <li><a href="https://github.com/ComanacDragos/HoughTransform">Hough transform</a> - MPI and threaded</li>
       <li><a href="https://github.com/ComanacDragos/Toy-Language-Interpreter">Toy language interpreter</a></li>
       <li><a href="https://github.com/ComanacDragos/ToyLanguageCompiler">Toy language compiler</a></li>
     </ul>
